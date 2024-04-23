@@ -1,0 +1,178 @@
+{
+  "program": {
+    "candyMachine": "H3VAkPcCqnYevVpKd7RSVx9QuNFhxtS93kM5XnjyP5KR",
+    "candyGuard": "",
+    "candyMachineCreator": "AFUFDdefkRB96qV7jZKb2DtKWmpL8dyoLFwHaYkjnE82",
+    "collectionMint": "B1GvYXjdwYUBcSQKAGE13quoMpMX3WD8z8Voe1DbhdMb"
+  },
+  "items": {
+    "-1": {
+      "name": "Wind Scraper #0",
+      "image_hash": "ff38423b03c789bd6e5ff5ce5e76c1fb1cf9aa33de01a9e566197f40baf1348a",
+      "image_link": "https://arweave.net/prBwIIJEM4VYpooSsGRTyVZgpDdqEtvCoWVfvLtSv8w?ext=png",
+      "metadata_hash": "060d95627b8f3d58974d80a19cc98aa5ae135f745c159b29e99929ffdbd6fe65",
+      "metadata_link": "https://arweave.net/ls-b32StKDFxX3LVDhRoCQ-sgG8leoH1FTpqzzTGF4U",
+      "onChain": true
+    },
+    "0": {
+      "name": "Wind Scraper #0",
+      "image_hash": "ff38423b03c789bd6e5ff5ce5e76c1fb1cf9aa33de01a9e566197f40baf1348a",
+      "image_link": "https://arweave.net/F_9LqWZk3fyOgztJbHojH3n10zHCDdUEZYJD2cjGB7U?ext=png",
+      "metadata_hash": "060d95627b8f3d58974d80a19cc98aa5ae135f745c159b29e99929ffdbd6fe65",
+      "metadata_link": "https://arweave.net/9mXHCKo9VUCscqy3BS-7LRf_3uytLnFrR66q5XfFnZg",
+      "onChain": true
+    },
+    "1": {
+      "name": "Wind Scraper #1",
+      "image_hash": "6de7246ce3dfdce357c5eb19d22d85572a18c3e3114d309969a9783b64888e11",
+      "image_link": "https://arweave.net/zlhZ4iCf94mu_XiACr8pLoEzQR_BLSzhI_iXh5-GycM?ext=png",
+      "metadata_hash": "b188b2b755d5a5be41e7a9cd272d16aab4297e25604ead97b87eb270762a312f",
+      "metadata_link": "https://arweave.net/TSK14sxKffxiuqkphS0pwBGsISh2EXc0iX1b_VIHEeE",
+      "onChain": true
+    },
+    "2": {
+      "name": "Wind Scraper #2",
+      "image_hash": "9cca9e7432003587793ec100293805baab9d58efba144b8a2923fb72a66cc057",
+      "image_link": "https://arweave.net/ODZqhvVckyluVqVZdtSbt67TTzdp1kVHixy0aw3t4ZY?ext=png",
+      "metadata_hash": "6dec742a81e4c9fcc2efeacb0701ecbdc2bbcfa75143733ac1e17f51cab78ba8",
+      "metadata_link": "https://arweave.net/tB1viuJQ2UO_Iitc0rR_CZUFC3oirzxTocLHyb-7ERI",
+      "onChain": true
+    },
+    "3": {
+      "name": "Wind Scraper #3",
+      "image_hash": "b19610a29dcb023fe7e8d437cfdb47712a58c565adc39daa1d528eee5855733e",
+      "image_link": "https://arweave.net/x3c4eiRUe4RAxPkcrQ4GRDzoZBhCIQPlfEhLXIKyyxQ?ext=png",
+      "metadata_hash": "55000939c28d0163325383f053d7b0d2d8ebad257bc109a16141b4aad5655adc",
+      "metadata_link": "https://arweave.net/PVlc3Fmc-vBbOQiyH_hhflRxJhNqSQ44WVu2bDh2yCE",
+      "onChain": true
+    },
+    "4": {
+      "name": "Wind Scraper #4",
+      "image_hash": "3d7f6072d5aa4ff9ad3f4f187eb1a603b54c02ef712d3b0059de314f01e65380",
+      "image_link": "https://arweave.net/OadzRTmRAsrggR23kww58lhnZsbvcSrElWvrViM-J8s?ext=png",
+      "metadata_hash": "6f21a493791e8105b03ab06929f6d20060c594fd65c4eebbb6349e3ed152de2c",
+      "metadata_link": "https://arweave.net/lU9yrSs7x8rckt6g5puw9mjgnvPa7F2O2tIiXXHLZhc",
+      "onChain": true
+    },
+    "5": {
+      "name": "Wind Scraper #5",
+      "image_hash": "c805614819d23392574e0e4de5b2a2fa95ee1f8d679b20b7006e118626e778b9",
+      "image_link": "https://arweave.net/OdmOejRvq76H-2mvLF-fg8MABqqX8tmWdpw1NZSPNAs?ext=png",
+      "metadata_hash": "4fed75afecfc3f4580c39eea4b0e168077cd526e1809860779ec888a0b0a54cb",
+      "metadata_link": "https://arweave.net/Wi2HSDWwObCS3zStUBYhaCiU09wpl1L0PUeK_WsCw5s",
+      "onChain": true
+    },
+    "6": {
+      "name": "Wind Scraper #6",
+      "image_hash": "06596cac0c573d5ff5f8cf1b047ae2cd06e59e586d500b7040000f925d3f3d03",
+      "image_link": "https://arweave.net/SaZZXLwUDzdC7wiZt2pbMqQd-CNlu886hldtllrvF_s?ext=png",
+      "metadata_hash": "914c9a08e6fda690d0254385ad30af1b835f760227e37171c1b846cb69b0ad04",
+      "metadata_link": "https://arweave.net/-YbhVloykpQcNfLBhoSnSLKREubFgVj3vZxJvtUD3fQ",
+      "onChain": true
+    },
+    "7": {
+      "name": "Wind Scraper #7",
+      "image_hash": "c3920e78abd6a4a851dba43c5a749e3dcedd798d8ffc322b730b100a8ad2363f",
+      "image_link": "https://arweave.net/_58bZcViMDIzqH1_lTMY3T8gMoLwx--0Ujmu6J0Mdqc?ext=png",
+      "metadata_hash": "45da62e40a5763ee92a187da6c4d8ceb6a2ef1e48f7589af318f5a12a4b41102",
+      "metadata_link": "https://arweave.net/X3eQjJSgKL7Vbd7-VbDr-NMX0toAI_xiuQfCITJ2hA8",
+      "onChain": true
+    },
+    "8": {
+      "name": "Wind Scraper #8",
+      "image_hash": "20013ef30d4fccb524ff16b817d632670ac831397ad0c6b93f84876a4021b90c",
+      "image_link": "https://arweave.net/ZwULtuusvK--UIWAWqkeUr0gA6fEpNSLasUTLTCq8ew?ext=png",
+      "metadata_hash": "b23604bf330a69f0ec93cb5c34324264ec1e7d170c2f33dcd051e7400ed790ce",
+      "metadata_link": "https://arweave.net/NqCcpOeWBAkb9Gzg2ty3FvqX_q5e3diEBEoK4ABxcsA",
+      "onChain": true
+    },
+    "9": {
+      "name": "Wind Scraper #9",
+      "image_hash": "c64712371f77d273315dc1748d957a2bfcdbb0c44ab53f71c7b3d633ded283b4",
+      "image_link": "https://arweave.net/XYKBSTKh5XUMGJ6Ss1eB_Vxfs3DYACowJCM2pdfb3RY?ext=png",
+      "metadata_hash": "b23d500f327bf7bddc71b7638c8704f021d08ccac83bf07a546878ad36d64dbe",
+      "metadata_link": "https://arweave.net/VeMeL76YqKFJJZeBpbfVnK8MU_htZC0fqtKdhiW74Xk",
+      "onChain": true
+    },
+    "10": {
+      "name": "Wind Scraper #10",
+      "image_hash": "3d91c6c030cd12ae3e981e0a8ff3746d7810438d0365fbd9b06b42f50f84ebac",
+      "image_link": "https://arweave.net/09a9rxCFf7s50D8pZR0JbhR3EYUtNq3mhRTsnrv2-Eg?ext=png",
+      "metadata_hash": "27e9930196c8a5243f7b278f78241fc68f011572b308d0e45667520ad5e69fb4",
+      "metadata_link": "https://arweave.net/ti8uB-wv4IBm9gEcvwjYSFgx9Yxtu0wyQHTmoyMfWfM",
+      "onChain": true
+    },
+    "11": {
+      "name": "Wind Scraper #11",
+      "image_hash": "00ef0ed7b6b375aff6c7514b9228fcbd3cdc6d5428d6383c5f9610e24fa58038",
+      "image_link": "https://arweave.net/OzN02tKzhpglvROScrM6KezTNaQjUszkKI-upWGgzvU?ext=png",
+      "metadata_hash": "5dd20c15cfe937e13b6a4e4cc894d715344648e30f77d0d3e3b543fb290714c9",
+      "metadata_link": "https://arweave.net/EADAMl7pZApljGquOycriFAO8iTELt6rO7MQJJdHfcM",
+      "onChain": true
+    },
+    "12": {
+      "name": "Wind Scraper #12",
+      "image_hash": "71ade9dc938d2b2abce067bea28aad9e64e1668a48f38a3b2eba5eb452af3bc2",
+      "image_link": "https://arweave.net/7yYL90DldRJ-ZamPHM2RIOgaEVg33FZuzwoZ2HVInYw?ext=png",
+      "metadata_hash": "45e85c40710e22c35f9d54a38af6d42381eada76cff764cc73676e9bbd08bea1",
+      "metadata_link": "https://arweave.net/qcBPYoMzTy6aGE0j3fxpHcFSHPNcGOiQLN9D7e5TFic",
+      "onChain": true
+    },
+    "13": {
+      "name": "Wind Scraper #13",
+      "image_hash": "0bb5cd375712ac2d5617ac45c009b2a994b52d8e572a2be4c04a6321e9a550ae",
+      "image_link": "https://arweave.net/QOoysvom8cV6NverLE3N0yYoaSKJ08QuBwwpJ-bB4fY?ext=png",
+      "metadata_hash": "080c331f017e6354da60018246847b206e5d072a397a25fed23ba79de9e4315b",
+      "metadata_link": "https://arweave.net/Icq29QOnitm4H-BQJTcNXLigYpSoZBPIBZ2co20EHGQ",
+      "onChain": true
+    },
+    "14": {
+      "name": "Wind Scraper #14",
+      "image_hash": "12b30cb495d89ae9f45cd357361d488ba29452fbb5076a2e7f6bb8b930c73e5b",
+      "image_link": "https://arweave.net/bp2zNiaFZyYGGWFXLEpRTF--1DwL3JpAGTrlRvmORFo?ext=png",
+      "metadata_hash": "42b5dc1671b009f081612108c92e36c03c258e663d895d7e2497b862d36dfae1",
+      "metadata_link": "https://arweave.net/uAwMtALt27Epf4mhz7wDDUsD0OwRedcBUpmbPJXk5JI",
+      "onChain": true
+    },
+    "15": {
+      "name": "Wind Scraper #15",
+      "image_hash": "7282c1ed0379fcc6f1ff50b155309539d0c370d1da9ce241958b24ab74826c03",
+      "image_link": "https://arweave.net/euiuKVrJuhLtKeOhIkR0Do19X1uhd435Eg8qjBR1lcU?ext=png",
+      "metadata_hash": "ac96fec6fba18ddea1350c10adf7e9d4c4f8aa10a9f6fbf828429782fe19e561",
+      "metadata_link": "https://arweave.net/QiZzlG2FmEE66BYpMCAwgLU_mdayWCb65qeWUPaU9do",
+      "onChain": true
+    },
+    "16": {
+      "name": "Wind Scraper #16",
+      "image_hash": "dba8659887047128038821229852dbd61193558913241b8a7c7ed9747ba19f11",
+      "image_link": "https://arweave.net/gVk7iwZF_6vM6C1hP1La-CsZm-W0-gjCxats9RfOic0?ext=png",
+      "metadata_hash": "ed7c44e6a9733410e29984524770da9e9f6325825e06cd5bc76b509db29d5dae",
+      "metadata_link": "https://arweave.net/vDXaVADDUMXMu9gqPpV4dVjS8_IwhxmEwg1j9XU0Z9I",
+      "onChain": true
+    },
+    "17": {
+      "name": "Wind Scraper #17",
+      "image_hash": "707f74e714b9e5f775d41e37a20c989e60821463ca6c102eb549a0b0cd207921",
+      "image_link": "https://arweave.net/VeQby52Zude45mr_ThlyQySC9ObcdqdxFB_38nJpCj0?ext=png",
+      "metadata_hash": "268b9200ae779622d3fee49cfd1aef74237c345d9798ad8df2111c3b74da8507",
+      "metadata_link": "https://arweave.net/npSewtYxHJV1mD6ENbIRPWyZobmVG99V4d1V32hGAxA",
+      "onChain": true
+    },
+    "18": {
+      "name": "Wind Scraper #18",
+      "image_hash": "262a62d2dcf86953a7be00ff18acb9a47bc9f626180880253e6a4709c8d32a2b",
+      "image_link": "https://arweave.net/UFyu9O7YMJHscT71_8Ygi3P98tJo3C8Rc1zVBNMSB5o?ext=png",
+      "metadata_hash": "df7305476d18efd3b43a92d7d31bcb42b93f2222b2ada9aa65dfab65a459279c",
+      "metadata_link": "https://arweave.net/gCAcB-bfCv3Q4kw-Fo1_7NIicnTipcEEpN_O42cye9k",
+      "onChain": true
+    },
+    "19": {
+      "name": "Wind Scraper #19",
+      "image_hash": "07ae0024e67fdffdefdbc8b3cdb5a60140c1a501ba9f341a8465d7d7c1a651ba",
+      "image_link": "https://arweave.net/aZHFOwkF3a_aNJF2rak3Wbiyy7waSTPpUMXSD0hdnXY?ext=png",
+      "metadata_hash": "85e8a78493d8c76ae471b61da1f2ef2033ff272048c08bd0895253c7c3a0ec91",
+      "metadata_link": "https://arweave.net/najgsbSp-7ku2rU5E8iB_lzFgtsw0ZDmwCeDOiPbgTg",
+      "onChain": true
+    }
+  }
+}

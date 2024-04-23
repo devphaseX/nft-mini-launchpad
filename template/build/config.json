@@ -1,0 +1,24 @@
+{
+  "tokenStandard": "nft",
+  "number": 20,
+  "symbol": "WS",
+  "sellerFeeBasisPoints": 1000,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "E4n3Qw33e6z8fQgqLs6DbS4SwN5HZ1DYMcynQtkUsXtQ",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null,
+  "maxEditionSupply": null
+}

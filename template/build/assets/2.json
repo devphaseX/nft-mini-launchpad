@@ -1,0 +1,42 @@
+{
+  "name": "Wind Scraper #2",
+  "symbol": "WS",
+  "description": "To blow and increase the income of Mr Eniwealth",
+  "seller_fee_basis_points": 1000,
+  "image": "2.png",
+  "external_url": "https://www.github.com/enniwealth",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "HeadBlue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "wings",
+      "value": "Wings4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}
